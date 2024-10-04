@@ -8,7 +8,7 @@
 <div align="left">
   <a href="https://www.heh.be/departement-des-sciences-et-technologies"><img src="https://www.heh.be/design/logo_HEH_TEC.png" height="40" alt="HeH logo"  /></a>
   <img width="12" />
-   <a href="linkedin.com/in/gianni-tricarico-49097496" target="_blank">
+   <a href="https://www.linkedin.com/in/gianni-tricarico-49097496/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
